@@ -9,7 +9,7 @@
 
 | Informasi | Detail |
 |---------|--------|
-| **Nama Proyek** | `belajar-fiber-api` |
+| **Nama Proyek** | `rest-api-sederhana` |
 | **Bahasa** | Go (Golang) |
 | **Framework** | [Fiber](https://gofiber.io) v2+ |
 | **Database** | PostgreSQL (via `database/sql` + `pgx`) |
@@ -22,7 +22,7 @@
 ## Tech Stack
 
 ```yaml
-- Go: 1.21+
+- Go: 1.22.2
 - Fiber: Web framework berkecepatan tinggi
 - PostgreSQL: Database relasional
 - goqu: SQL builder (opsional)
